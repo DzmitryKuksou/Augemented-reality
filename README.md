@@ -23,10 +23,8 @@ AR.js is a lightweight library for Augmented Reality on the Web, coming with fea
 
 The old repository (the one you are now) will be left up, so all links and CDNs will continue to be available, but this version **will not be updated anymore**.
 
-**⚠️ AR.js repository has been moved, please check it out at: https://github.com/AR-js-org/AR.js ⚠️**
 
-Please, open issues and Pull Requests on the new repository:
-https://github.com/AR-js-org/AR.js
+
 
 Thank you.
 
